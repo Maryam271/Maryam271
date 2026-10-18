@@ -1,71 +1,61 @@
+<h1 align="center">Hi, I'm Maryam Muhammad</h1>
 
-# Maryam Muhammad
+<h3 align="center">Computer Science Student | Aspiring AI/ML Engineer</h3>
 
-### AI/ML Engineer | AI Research | Applied Machine Learning
+<p align="center">
+  Building practical AI solutions through machine learning,
+  Generative AI, and software development.
+</p>
 
-I build AI applications that solve real problems and create value for people.
-
-I'm a Computer Systems Engineering undergraduate at Mehran University of Engineering and Technology, interested in machine learning, AI application development, and research.
-
-**My approach:** Learn deeply. Build thoughtfully. Solve real problems.
+<p align="center">
+  <a href="https://www.linkedin.com/in/maryam-muhammad/">LinkedIn</a>
+  ·
+  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+</p>
 
 ---
 
 ## About Me
 
-- Building practical AI and machine learning applications.
-- Exploring applied AI research and data-driven solutions.
-- Developing AI-powered applications and REST APIs.
-- Interested in explainable machine learning and responsible AI.
-- Passionate about teaching, learning, and sharing knowledge.
+I'm a Computer Science student interested in building intelligent
+applications and solving real-world problems with AI.
+
+- Exploring Machine Learning and Generative AI.
+- Building AI-powered applications and data-driven projects.
+- Learning model evaluation, deployment, and software engineering.
+- Improving my skills through research and hands-on development.
 
 ## Technical Skills
 
 **Languages:** Python, SQL
 
-**AI & Machine Learning:** Machine Learning, Feature Engineering, Model Evaluation, Explainable AI
+**Machine Learning:** Scikit-learn, Pandas, NumPy
 
-**Frameworks & Development:** FastAPI, Streamlit, REST APIs
+**AI & Generative AI:** LLMs, Prompt Engineering, API Integration
 
-**Databases:** PostgreSQL
+**Development:** Streamlit, FastAPI
 
-**Tools:** Git, GitHub, Jupyter Notebook
+**Tools:** Git, GitHub, Jupyter Notebook, Google Colab
 
 ## Featured Projects
 
-### Machine Learning for SEO Content Review Prioritization
-
-Developed a machine learning approach to help SEO teams prioritize content pages for human review using anonymized search performance data.
-
-**Focus:** Applied Machine Learning, Ranking, Model Evaluation, Explainable Recommendations
-
-[View Project Repository](https://github.com/Maryam271/flyrank-ml-internship)
-
-### AI-Powered Mentor Chatbot
-
-Worked on an AI-powered chatbot that provides level-appropriate explanations, analyses uploaded documents, and maintains conversational context.
-
-**Tech Stack:** Python, FastAPI, Streamlit, PostgreSQL, Gemini API
-
 ### AI Content Assistant
+An AI-powered application for generating educational and professional content.
 
-Developed an AI-powered application for generating educational and professional content.
+### Machine Learning for SEO Content Review Prioritization
+A machine learning project that prioritizes website content for human review.
 
-[Explore All My Projects](https://github.com/Maryam271?tab=repositories)
+### Adaptive Cognitive Reinforcement Engine (ACRE)
+Research on AI-driven knowledge retention and personalized learning.
 
-## Research Interests
+## Current Focus
 
-- Artificial Intelligence and Machine Learning
-- Explainable and Responsible AI
-- AI-Powered Applications
-- Data-Driven Decision Making
-
-## Let's Connect
-
-I'm always happy to connect with people interested in AI, machine learning, research, and building useful technology.
-
-[LinkedIn](https://www.linkedin.com/in/maryam-muhammad/) · [GitHub](https://github.com/Maryam271) · [Email](mailto:maryammuhammad2544@gmail.com)
+- Developing practical machine learning projects.
+- Exploring AI engineering and LLM-based applications.
+- Building a stronger foundation in model development and deployment.
 
 ---
 
-*Learning continuously. Building with purpose.*
+<p align="center">
+  <i>Learning continuously. Building thoughtfully. Engineering with purpose.</i>
+</p>
