@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Maryam Muhammad</h1>
 
 <h3 align="center">Computer Science Student | Aspiring AI/ML Engineer</h3>
@@ -63,4 +62,3 @@ Research on AI-driven knowledge retention and personalized learning.
 <p align="center">
   <i>Learning continuously. Building thoughtfully. Engineering with purpose.</i>
 </p>
-```
